@@ -1,0 +1,4 @@
+sqlite
+pycryptodome
+csv
+pywin32
